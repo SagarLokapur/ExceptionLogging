@@ -1,0 +1,6 @@
+C:\Users\Anand Huded\source\repos\ExceptionLogging\Utility\bin\Debug\Utility.dll
+C:\Users\Anand Huded\source\repos\ExceptionLogging\Utility\bin\Debug\Utility.pdb
+C:\Users\Anand Huded\source\repos\ExceptionLogging\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\Anand Huded\source\repos\ExceptionLogging\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Anand Huded\source\repos\ExceptionLogging\Utility\obj\Debug\Utility.dll
+C:\Users\Anand Huded\source\repos\ExceptionLogging\Utility\obj\Debug\Utility.pdb

@@ -1,0 +1,11 @@
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.exe.config
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.exe
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.pdb
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\bin\Debug\Utility.dll
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\bin\Debug\Utility.pdb
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.csproj.AssemblyReference.cache
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.csproj.CoreCompileInputs.cache
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.csproj.CopyComplete
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.exe
+C:\Users\Anand Huded\source\repos\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.pdb
